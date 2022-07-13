@@ -1,0 +1,5 @@
+[web]
+localhost
+
+[web:vars]
+ansible_connection=ssh

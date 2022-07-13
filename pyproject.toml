@@ -1,0 +1,5 @@
+[tool.pytest.ini_options]
+bdd_features_base_dir = "tests/features"
+testpaths = [
+    "tests",
+]
